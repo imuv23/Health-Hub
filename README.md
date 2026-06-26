@@ -1,4 +1,3 @@
-# project-1
 Health Care
 This is a digital health project designed to provide personalized wellness insights. Based on a user's height and weight, the platform performs three key functions:
 
